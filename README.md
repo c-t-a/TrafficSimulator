@@ -1,4 +1,4 @@
-# <img src="images/Traffic.svg" width="30px">TrafficSimulator
+# <img src="images/Traffic.svg" width="30px"> TrafficSimulator
 Java based program using J2SE, Java Swing, Java AWT and SQL lite. User can create custom road map design for simulation. Also, that map can be save or edit after the map is created. 
 In the simulation tab, it had two functions, vehicle spawn rate and traffic light control, which can be controlled by manually. 
 
