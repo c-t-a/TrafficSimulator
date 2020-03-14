@@ -4,9 +4,9 @@ In the simulation tab, it had two functions, vehicle spawn rate and traffic ligh
 
 ## Built With
 * [Java](https://www.oracle.com/java/) - Used language
-* Java Swing
-* Java AWT
-* SQL Lite
+* Java Swing - Used for GUI
+* Java AWT - Used for GUI
+* SQL Lite - Used to keep data
 
 ## Authors
 * **Christopher Thiha Aung** - *Software Developer* - [LinkedIn](https://www.linkedin.com/in/christopher-t-678b41171/)
